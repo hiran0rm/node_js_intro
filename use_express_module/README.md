@@ -14,6 +14,7 @@ expressモジュールのチュートリアルプログラム
 ``localhost:3000/hello/edit``　フォームに入力してデータを編集する  
 ``localhost:3000/hello/find``　フォームに入力してデータを検索する  
 ``localhost:3000/hello/show?id=2``　など、idを指定してデータベースのデータを参照する 
+``localhost:3000/bord`` メッセージボードアプリ
 ``localhost:3000/md``  Markdownデータベースアプリ
 ユーザー登録すると使える
 
