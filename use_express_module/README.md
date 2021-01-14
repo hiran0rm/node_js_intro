@@ -13,4 +13,13 @@ expressモジュールのチュートリアルプログラム
 ``localhost:3000/hello/delete?id=3``　とか指定してデータを削除する（ボタンを押すと削除）  
 ``localhost:3000/hello/edit``　フォームに入力してデータを編集する  
 ``localhost:3000/hello/find``　フォームに入力してデータを検索する  
-``localhost:3000/hello/show?id=2``　など、idを指定してデータベースのデータを参照する  
+``localhost:3000/hello/show?id=2``　など、idを指定してデータベースのデータを参照する 
+``localhost:3000/md``  Markdownデータベースアプリ
+ユーザー登録すると使える
+
+# 必要なパッケージ
+Express
+Express Session
+sqlite3
+Sequelize
+sequelize-cli
